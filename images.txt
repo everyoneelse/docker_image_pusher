@@ -7,5 +7,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #minio/minio
 #redis
-elasticsearch:8.15.0
-mysql
+#elasticsearch:8.15.0
+mysql:5.7.18
