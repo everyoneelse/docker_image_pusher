@@ -10,8 +10,9 @@
 #elasticsearch:8.15.0
 #mysql:5.7.18
 #ollama/ollama
-docker.elastic.co/elasticsearch/elasticsearch:8.13.2
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.4.8
-mysql:8.4
-xixihahaliu01/qanything-linux:v1.5.1
+#docker.elastic.co/elasticsearch/elasticsearch:8.13.2
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.4.8
+#mysql:8.4
+#xixihahaliu01/qanything-linux:v1.5.1
+wiseflow:latest
