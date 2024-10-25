@@ -15,4 +15,5 @@
 #milvusdb/milvus:v2.4.8
 #mysql:8.4
 #xixihahaliu01/qanything-linux:v1.5.1
-wiseflow:latest
+#wiseflow:latest
+qyg2297248353/wiseflow:latest
