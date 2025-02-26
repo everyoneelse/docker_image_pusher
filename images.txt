@@ -17,4 +17,5 @@
 #xixihahaliu01/qanything-linux:v1.5.1
 #wiseflow:latest
 #qyg2297248353/wiseflow:latest
-ubuntu:latest
+#ubuntu:latest
+dify:latext
