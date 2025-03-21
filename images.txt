@@ -18,5 +18,5 @@
 #wiseflow:latest
 #qyg2297248353/wiseflow:latest
 #ubuntu:latest
-dify:latext
+dify:latest
 python:3.12.6
