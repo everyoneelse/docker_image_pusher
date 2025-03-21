@@ -19,3 +19,4 @@
 #qyg2297248353/wiseflow:latest
 #ubuntu:latest
 dify:latext
+python:3.12.6
