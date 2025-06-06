@@ -19,4 +19,5 @@
 #qyg2297248353/wiseflow:latest
 #ubuntu:latest
 #python:3.12.6
-alleninstituteforai/olmocr
+#alleninstituteforai/olmocr
+coendevente/nninteractive-slicer-server:latest
