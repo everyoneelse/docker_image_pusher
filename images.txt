@@ -20,4 +20,5 @@
 #ubuntu:latest
 #python:3.12.6
 #alleninstituteforai/olmocr
-coendevente/nninteractive-slicer-server:latest
+#coendevente/nninteractive-slicer-server:latest
+python:3.10
