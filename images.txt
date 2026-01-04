@@ -22,4 +22,5 @@
 #alleninstituteforai/olmocr
 #coendevente/nninteractive-slicer-server:latest
 #python:3.10
-neo4j:5.26.12-community-ubi9
+#neo4j:5.26.12-community-ubi9
+ubuntu:22.04
