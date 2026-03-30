@@ -23,4 +23,11 @@
 #coendevente/nninteractive-slicer-server:latest
 #python:3.10
 #neo4j:5.26.12-community-ubi9
-ubuntu:22.04
+#ubuntu:22.04
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/gitaly:v16.4.6
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/csghub_nats:2.10.16
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/temporalio/auto-setup:1.25.1
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/temporalio/ui:2.30.3
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/grafana/loki:3.1.0
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/casbin/casdoor:v1.733.0
+opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsghq/csghub-server:latest
