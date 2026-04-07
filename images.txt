@@ -32,4 +32,7 @@
 #opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/casbin/casdoor:v1.733.0
 #opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsghq/csghub-server:latest
 #memmachine/memmachine:v0.2.3-cpu
-dorowu/ubuntu-desktop-lxde-vnc:bionic
+#dorowu/ubuntu-desktop-lxde-vnc:bionic
+ohif/viewer:v3.8.0-beta.62
+osimis/orthanc:latest
+nginx:alpine
