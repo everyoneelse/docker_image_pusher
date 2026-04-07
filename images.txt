@@ -31,4 +31,5 @@
 #opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/grafana/loki:3.1.0
 #opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsg_public/casbin/casdoor:v1.733.0
 #opencsg-registry.cn-beijing.cr.aliyuncs.com/opencsghq/csghub-server:latest
-memmachine/memmachine:v0.2.3-cpu
+#memmachine/memmachine:v0.2.3-cpu
+dorowu/ubuntu-desktop-lxde-vnc:bionic
