@@ -34,5 +34,5 @@
 #memmachine/memmachine:v0.2.3-cpu
 #dorowu/ubuntu-desktop-lxde-vnc:bionic
 ohif/app:latest
-osimis/orthanc:latest
+orthancteam/orthanc:latest
 nginx:alpine
