@@ -36,4 +36,5 @@
 #ohif/app:latest
 #orthancteam/orthanc:latest
 #nginx:alpine
-ohif/app:latest-beta
+#ohif/app:latest-beta
+argilla/argilla-server:latest
