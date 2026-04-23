@@ -37,4 +37,5 @@
 #orthancteam/orthanc:latest
 #nginx:alpine
 #ohif/app:latest-beta
-argilla/argilla-server:latest
+#argilla/argilla-server:latest
+opencsg/csghub-cli:latest
