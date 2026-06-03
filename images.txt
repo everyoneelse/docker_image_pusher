@@ -38,4 +38,5 @@
 #nginx:alpine
 #ohif/app:latest-beta
 #argilla/argilla-server:latest
-opencsg/csghub-cli:latest
+#opencsg/csghub-cli:latest
+rabbitmq:3.13-management
