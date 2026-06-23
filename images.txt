@@ -36,7 +36,7 @@
 #ohif/app:latest
 #orthancteam/orthanc:latest
 #nginx:alpine
-#ohif/app:latest-beta
 #argilla/argilla-server:latest
 #opencsg/csghub-cli:latest
-rabbitmq:3.13-management
+#rabbitmq:3.13-management
+ohif/app:latest
