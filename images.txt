@@ -39,4 +39,5 @@
 #argilla/argilla-server:latest
 #opencsg/csghub-cli:latest
 #rabbitmq:3.13-management
-ohif/app:latest
+#ohif/app:latest
+docker/desktop-kubernetes:kubernetes-v1.36.1-cni-v1.9.1-critools-v1.35.0-cri-dockerd-v0.4.4-1-debian
