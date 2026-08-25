@@ -50,6 +50,7 @@
 #docker/desktop-kubernetes-controller-manager:v1.36.1
 #docker/desktop-kubernetes-scheduler:v1.36.1
 #docker/desktop-kubernetes-proxy:v1.36.1
-rancher/k3s:v1.35.5-k3s1
-ghcr.io/k3d-io/k3d-tools:5.8.3
-ghcr.io/k3d-io/k3d-proxy:5.8.3
+#rancher/k3s:v1.35.5-k3s1
+#ghcr.io/k3d-io/k3d-tools:5.8.3
+#ghcr.io/k3d-io/k3d-proxy:5.8.3
+nvcr.io/nvidia/k8s-device-plugin:v0.19.3
