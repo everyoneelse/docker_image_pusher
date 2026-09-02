@@ -54,5 +54,5 @@
 #ghcr.io/k3d-io/k3d-tools:5.8.3
 #ghcr.io/k3d-io/k3d-proxy:5.8.3
 #nvcr.io/nvidia/k8s-device-plugin:v0.19.3
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-vl:latest-nvidia-gpu-offline
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-vl:latest-nvidia-gpu-offline
+#ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-vl:latest-nvidia-gpu-offline
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-genai-vllm-server:latest-nvidia-gpu-offline
