@@ -56,4 +56,5 @@
 #nvcr.io/nvidia/k8s-device-plugin:v0.19.3
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-vl:latest-nvidia-gpu-offline
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-genai-vllm-server:latest-nvidia-gpu-offline
-mineru:3.4.5-offline
+#mineru:3.4.5-offline
+python:3.12-slim-bookworm
