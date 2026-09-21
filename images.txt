@@ -57,4 +57,5 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-vl:latest-nvidia-gpu-offline
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-genai-vllm-server:latest-nvidia-gpu-offline
 #mineru:3.4.5-offline
-python:3.12-slim-bookworm
+#python:3.12-slim-bookworm
+node:22.21.0-bookworm
