@@ -67,6 +67,7 @@
 #registry.k8s.io/pause:3.10.2
 #registry.k8s.io/etcd:3.6.8-0
 #registry.k8s.io/pause:3.10.1
-quay.io/calico/node:v3.32.2
-quay.io/calico/cni:v3.32.2
-quay.io/calico/kube-controllers:v3.32.2
+#quay.io/calico/node:v3.32.2
+#quay.io/calico/cni:v3.32.2
+#quay.io/calico/kube-controllers:v3.32.2
+1panel/kubepi:v2.0.3
