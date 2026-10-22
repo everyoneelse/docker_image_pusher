@@ -76,4 +76,7 @@
 #nvcr.io/nvidia/k8s-device-plugin:v0.19.2
 #vllm/vllm-openai:v0.10.2
 #vllm/vllm-omni:v0.30.0
-vllm/vllm-omni:v0.31.0rc1
+#vllm/vllm-omni:v0.31.0rc1
+postgres:16.15-bookworm
+grafana/grafana:13.2.4
+prom/prometheus:v3.15.1
